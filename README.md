@@ -36,7 +36,7 @@
 
 ---
 
-<details>
+<!--<details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -54,7 +54,7 @@
 
   <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.cankcygt.vercel.app/api?username=cankcygt&show_icons=true&hide_border=true" />
 
-</details>
+</details>-->
 
-[discord]: https://discord.gg/SnphaaU
-[instagram]: https://www.instagram.com/c.kocyigit/
+[discord]: https://discord.gg/ahWKcDg
+[instagram]: https://www.instagram.com/muraathan34/
