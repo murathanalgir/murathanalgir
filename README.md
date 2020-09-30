@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cankcygt| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-[<img align="left" alt="cankcygt | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+[<img align="left" alt="beunc| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[<img align="left" alt="beunc | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 
 <br />
 
