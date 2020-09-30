@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love my fucking life
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yenidenoyuncu&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=yenidenoyuncu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yenidenoyuncu&cover_image=false)](https://open.spotify.com/user/yenidenoyuncu?si=koVI8-GTQBetxvkUqP45aA)
 
 ### Connect with me:
 
