@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love my fucking life
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/yenidenoyuncu)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yenidenoyuncu&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=yenidenoyuncu&redirect=true)
 
 ### Connect with me:
 
