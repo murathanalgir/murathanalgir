@@ -1,6 +1,5 @@
 ### Hi there, I'm Murathan - aka [Beunc]👋
 
-[![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/ahWKcDg)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/404beunc)
 
 
