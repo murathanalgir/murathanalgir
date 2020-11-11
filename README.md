@@ -5,8 +5,8 @@
 
 
 ## I'm a Student and Developer!
-
-- 💡 I’m currently learning Ruby,HTML,CSS,Lua and JS
+- I can write a little bit PHP,HTML,CSS
+- 💡 I’m currently learning Ruby,Lua and JS
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love my fucking life
 
