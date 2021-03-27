@@ -27,32 +27,11 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Ruby" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ruby/ruby.png">
+
 
 <br />
 <br />
 
----
-
-<!--<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
-END_SECTION:activity
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.cankcygt.vercel.app/api?username=cankcygt&show_icons=true&hide_border=true" />
-
-</details>-->
 
 [discord]: https://discord.gg/ahWKcDg
 [instagram]: https://www.instagram.com/muraathan34/
