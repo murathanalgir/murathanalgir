@@ -33,10 +33,9 @@
 
 - **Frameworks :** <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>,<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-- **Databses :** <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" width=100/>,
-- **Databses :** <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width=100/>,
+- **Databses :** <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" width=100/>,<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width=100/>
 
-- **Hobbies :** **_Manga📜Reading_,Playing Games** **_, Watching👀Anime_**
+- **Hobbies :**Playing Games** **_, Watching👀Anime_**
 
 <hr/>
 
