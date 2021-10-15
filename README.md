@@ -1,40 +1,120 @@
-### Hi there, I'm Murathan - aka [Beunc]👋
+<h2 align="center">
+  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
+  Hello,World!
+  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+</h2>
 
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/404beunc)
+<h2 align="center">
+    I'm
+    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+    Akshat Tamrakar
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+</h2>
+
+<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
+
+<p align="left">
+  <samp>
+    <br><br>
+    Full stack developer
+    <br><br>
+     & mobile developer...
+    <br><br>
+    Focusing on building beautiful
+    <br><br> 
+    & native applications...
+  </samp>
+</p>
+
+<hr/>
+
+<h2 align="center">About</h2>
+
+- **Plateforms :** **_Web, Desktop, <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>, Server_**
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
+
+- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/postgresql.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/oracle.svg" width=80/>
+
+- **Hobbies :** **_Manga📜Reading_,Playing Games** **_, Watching👀Anime_**
+
+<hr/>
+
+<p align="left" >
+<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
+
+
+  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
+</p>
+<br/>
+<br/>
+<p  align="right" >
+  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
+  <br/>
+  <br/>
+  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
+  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
+  <br />
+  <br />
+  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
+  <br />
+  <br />
+</p>
+
+<hr/>
+
+
+```javascript
+import { Beunc } from "Awesome";
+
+const languages = ["Python","Javascript", "Lua"];
+const frameworks = ["React", "Django",];
+const databases = ["mongoDB", "mySQL"];
+
+beunc.skills.push(...languages, ...frameworks, ...databases);
+```
+
+<hr/>
+
+<hr/>
+
+<p align="center">
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.vercel.app/api?username=beunc" />
+</p>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">Find me on</h2>
+
+<p align="center">
 
 
 
-## I'm a Student and Developer!
-- 💡 I’m currently working on Node.js and Javascript
-- 🇹🇷 I'm from Turkey
+  <a href="https://github.com/beunc">
+    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.instagram.com/murathaan34">
+    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://twitter.com/muraathan361">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+  </a>
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yenidenoyuncu&cover_image=false)](https://open.spotify.com/user/yenidenoyuncu?si=koVI8-GTQBetxvkUqP45aA)
+</p>
 
-### Connect with me:
+<hr/>
 
-[<img align="left" alt="beunc| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-[<img align="left" alt="beunc | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
 
-<br />
+<p align="center">
+  Made with ❤️ in Bhopal
+</p>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Sass" width="26px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" />
-
-
-
-
-<br />
-<br />
-
-
-[discord]: https://discord.gg/ahWKcDg
-[instagram]: https://www.instagram.com/muraathan34/
+-----
