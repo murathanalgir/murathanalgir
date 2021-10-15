@@ -47,11 +47,13 @@
 </p>
 <br/>
 <br/>
+<img align="right" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <p  align="right" >
   <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
   <br/>
   <br/>
   <h3 align="right">FAVOURITE FRAMEWORKS</h3>
+  
   <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
   <br />
   <br />
