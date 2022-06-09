@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Electron**
 
-- 👨‍💻 Portfolio [https://beunc.github.io](https://beunc.github.io)
+- 👨‍💻 Portfolio ...
 
 - 💬 Ask me about **Javascript**
 
